@@ -1,0 +1,2 @@
+const rabbitmq = require('mqplib')
+
